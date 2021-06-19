@@ -1,4 +1,4 @@
-Guide/Instructions to run the Project.py program.
+Guide/Instructions to run the project.py program.
 
 Training:
 For default training (newsgroup) submit the following argument 'python project.py --mode train'
