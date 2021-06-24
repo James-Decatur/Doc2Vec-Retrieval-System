@@ -11,8 +11,8 @@ or
 To run the program using a query input submit the following argument 'python project.py --mode run --data FOLDER_NAME --query 'hello world ...'
 
 Eval:
-To evaluate  on the default newsgroup dataset submit the following argument 'python project.py --mode eval'
-To evaluate  on the reuters dataset submit the following argument 'python project.py --mode eval --test_data reuters'
+To evaluate on the default newsgroup dataset submit the following argument 'python project.py --mode eval'
+To evaluate on the reuters dataset submit the following argument 'python project.py --mode eval --test_data reuters'
 
 http://projector.tensorflow.org/
 
