@@ -18,4 +18,4 @@ http://projector.tensorflow.org/
 
 ***Clarification***
 The file 'Random_Moive_Review_Document.txt' is a document taken from 'http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz'. 
-The file was passed as an argument via '--document' and the remaining movie-review-data was passed as an argument via '-data'.
+The file was passed as an argument via '--document' and the remaining movie-review-data was passed as an argument via '--data'.
