@@ -6,9 +6,9 @@ For reuters training submit the following argument 'python project.py --mode tra
 For custom training submit the following argument 'python project.py --mode train --training_data FOLDER_NAME'
 
 Run:
-To run the program using a document input submit the following argument 'python project.py --mode run --data FOLDER_NAME --document SOME_TEXT.txt
+To run the program using a document input submit the following argument 'python project.py --mode run --data FOLDER_NAME --document SOME_TEXT.txt'
 or
-To run the program using a query input submit the following argument 'python project.py --mode run --data FOLDER_NAME --query 'hello world ...'
+To run the program using a query input submit the following argument 'python project.py --mode run --data FOLDER_NAME --query 'hello world ...''
 
 Eval:
 To evaluate on the default newsgroup dataset submit the following argument 'python project.py --mode eval'
