@@ -1,4 +1,4 @@
-Document Retrieval System
+***Document Retrieval System***
 
 Guide/Instructions to run the project.py program.
 
